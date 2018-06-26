@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'wygPod_Example' do
+  pod 'wygPod', :path => '../'
+
+  target 'wygPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
