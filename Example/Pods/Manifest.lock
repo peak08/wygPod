@@ -1,0 +1,16 @@
+PODS:
+  - wygPod (0.1.0)
+
+DEPENDENCIES:
+  - wygPod (from `../`)
+
+EXTERNAL SOURCES:
+  wygPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  wygPod: 3ae4e7a6f14662870013ee1450cbd9e883ed461a
+
+PODFILE CHECKSUM: 89272367aec62380b1c4409d8de1d6dedcf4c6d7
+
+COCOAPODS: 1.2.1

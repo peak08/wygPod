@@ -1,0 +1,6 @@
+framework module wygPod {
+  umbrella header "wygPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
